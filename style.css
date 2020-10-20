@@ -1,0 +1,296 @@
+html {
+  height : 100%;
+}
+
+body {
+	  margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    font-family: 'helvetica-neue', sans-serif, bold, medium;
+}
+
+@font-face {
+    font-family: 'Muthiara';
+    src : url('Muthiara.otf');
+}
+
+.bold {
+  font-weight: bold;
+}
+
+
+.who-i-am {
+  background-color: #263133;
+  background-size: cover;
+  height: 550px; 
+  color: white;
+}
+
+.content-position {
+  text-align: center;
+}
+
+
+.curly {
+  font-size: 11em;
+  font-weight: lighter;
+  display: inline-block;
+  position: relative;
+  bottom: 0.2em;
+
+}
+
+.quisuisje {
+	margin-top: 7em;
+  font-size: 1.5em;
+  line-height: 2em;
+  display: inline-block;
+  text-align: center;
+}
+
+.mystery {
+  font-family: 'Muthiara';
+  font-size: 34px;
+
+}
+
+.triangle-bottom {
+	width  : 0;
+  height : 0;
+  position: relative;
+  margin: auto;
+  bottom: 4px;
+	border-left  : 35px solid transparent;
+	border-right : 35px solid transparent;
+	border-top   : 30px solid #263133;
+}
+
+ /*Page 2*/
+
+
+.background-white {
+  background-color: #FAFAFA ;
+}
+
+.presentation {
+  margin-left: 40px;
+  margin-right: 40px;
+  text-align: center;
+
+}
+
+.name-title {
+  margin: 0;
+  padding-top: 80px;
+}
+
+.typo {
+  font-family: 'Muthiara';
+  font-size: 30px;
+}
+
+.cursus {
+  line-height: 24px;
+  font-size: 16px;
+  margin-top: 50px;
+  text-align: center;
+}
+
+.img {
+  display: block;
+  text-align: center;
+  margin-top: 40px;
+}
+
+.img-page-2{
+  width: 330px;
+}
+
+.triangle-bottom2 {
+	width  : 0;
+  height : 0;
+  position: relative;
+  margin: auto;
+  top: 30px;
+	border-left  : 35px solid transparent;
+	border-right : 35px solid transparent;
+	border-top   : 30px solid #FAFAFA;
+}
+
+/*page 3*/
+
+.background-grey {
+  background-color: #ececec;
+  background-size: cover;
+  height: 620px;
+}
+
+
+.titre-experiences{
+  padding-top: 30px;
+  text-align: center;
+}
+
+.font-experiences {
+  font-family: 'Muthiara';
+  font-size: 30px;
+}
+
+.experiences {
+  line-height: 24px;
+  font-size: 16px;
+}
+
+.logistique {
+  text-align: center;
+}
+
+.p-logistique {
+
+}
+
+
+.job-etudiant {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.baxter {
+
+}
+
+.entreprise {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.cordonnerie {
+
+}
+
+.nantes {
+  text-align: center;
+  margin-top: 30px;
+
+}
+
+.commis-cuisine {
+
+}
+
+
+.stage-paris {
+  margin-top: 30px;
+  text-align: center;
+}
+
+.star-face {
+
+}
+
+.stage-mouscron {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.factory-studio {
+
+}
+
+.triangle-bottom3 {
+	width  : 0;
+  height : 0;
+  position: relative;
+  margin: auto;
+  top: 53px;
+	border-left  : 35px solid transparent;
+	border-right : 35px solid transparent;
+  border-top   : 30px solid #ececec;
+}
+
+/*page 4*/
+
+.background-white-2 {
+  background-color: #FAFAFA ;
+  background-size: cover;
+  height: 460px;
+}
+
+.skills {
+  text-align: center;
+  padding-top: 50px;
+}
+
+.font-skills {
+  font-family: 'Muthiara';
+  font-size: 34px;
+}
+
+.logos-adobe {
+  width: 300px;
+  padding-top: 20px;
+}
+
+.triangle-bottom4 {
+	width  : 0;
+  height : 0;
+  position: relative;
+  margin: auto;
+  top: 87px;
+	border-left  : 35px solid transparent;
+	border-right : 35px solid transparent;
+  border-top   : 30px solid #fafafa;
+}
+
+/*Footer*/
+
+.background-black-footer{
+  background-color: #263133;
+  background-size: cover;
+  width: 100%;
+  height: 200px;
+}
+
+.body-footer {
+  text-align: center;
+}
+
+.contact {
+  display: inline-block;
+  vertical-align: middle;
+  margin-top: 50px;
+}
+
+
+.contact-me {
+  color: white;
+  text-decoration: none;
+  text-align: center;
+  font-size: 20px;
+}
+
+.tel,
+.email {
+  color: white;
+  text-decoration: none;
+  text-align: center;
+  line-height: 25px;
+  font-size: 16px;
+}
+
+.curly2,
+.curly1 {
+  display: inline-block;
+  vertical-align: middle;
+  text-align: center;
+}
+
+.right1,
+.left1 {
+  margin-top: 45px;
+  margin-bottom: auto;
+  font-size: 100px;
+  font-weight: lighter;
+  color: #FAFAFA;
+}
